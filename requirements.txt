@@ -1,0 +1,7 @@
+geocoder
+shapely
+wget
+seaborn
+requests
+ast
+ctypes
