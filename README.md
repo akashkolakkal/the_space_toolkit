@@ -2,8 +2,8 @@
 
 <b>University of Mumbai Python Mini Project</b><br><br>
 Credits:<br>
-[@varospaxo](https://github.com/varospaxo)<br>
 [@akashkolakkal](https://github.com/akashkolakkal)<br>
+[@varospaxo](https://github.com/varospaxo)<br>
 [@mack3y](https://github.com/mack3y)<br>
 [@adityasansare](https://github.com/adityasansare)<br><br>
 
